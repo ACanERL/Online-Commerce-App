@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item android:id="@+id/productsFragment"
+       android:icon="@drawable/ic_dash"
+       android:title="Ürünler"/>
+
+    <item android:id="@+id/basketFragment"
+        android:icon="@drawable/ic_baseline_add_shopping_cart_24"
+        android:title="Sepet"/>
+
+    <item android:id="@+id/profilFragment"
+        android:icon="@drawable/ic_user"
+        android:title="Profil"/>
+</menu>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CommerceApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_new_account">Yeni Hesap Oluştur</string>
+    <string name="e_shop_app">ACan EShop</string>
+    <string name="log_n">Giriş</string>
+    <string name="password">Şifre</string>
+    <string name="email">E-mail</string>
+    <string name="confirm_password">Tekrar Şifre</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="create_account">Hesap Oluştur</string>
+    <string name="name">Ad</string>
+</resources>
