@@ -15,7 +15,7 @@
 
 ![Ekran Görüntüsü (22)](https://user-images.githubusercontent.com/71428865/154801073-014ad791-f441-479a-abc7-0ce66a83ee21.png)
 
-<h2>Ürünlerin Aramai</h2>
+<h2>Ürünlerin Aramasi</h2>
 
 ![Ekran Görüntüsü (23)](https://user-images.githubusercontent.com/71428865/154801104-f954a522-78bd-420e-99f8-982c3d6291a3.png)
 
